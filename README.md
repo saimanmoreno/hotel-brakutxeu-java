@@ -1,1 +1,1 @@
-# hotel-brakutxeu-java
+# Hotel Brakutxeu Java Version
